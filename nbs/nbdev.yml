@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nvdeb101"
+  site-url: "https://mckjzhangxk.github.io/nvdeb101"
+  description: "start learning nvdev"
+  repo-branch: main
+  repo-url: "https://github.com/mckjzhangxk/nvdeb101"
